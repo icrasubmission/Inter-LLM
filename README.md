@@ -1,5 +1,5 @@
 
-# Codes for Interleaved LLM and Motion Planning
+# Codes of Interleaved LLM and Motion Planning (2026 ICRA Submission)
 
 ## Prerequisite
 
