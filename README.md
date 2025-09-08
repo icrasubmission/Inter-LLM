@@ -24,5 +24,7 @@
 1. Set the algorithm, scene_id, and LLM configurations in the `config.yaml` file
 
 2. In the `OPENAI_API_KEY` field of the `config.yaml` file, insert you own key
+ 
+3. In the main folder, run `python -m build_scene_graph` to build the scene graph for the ProcTHOR scene
 
-3. In the main folder, run `python -m main` to evaluate the specified algorithm in the ProcThor scene
+4. In the main folder, run `python -m main` to evaluate the specified algorithm in the ProcThor scene
