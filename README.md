@@ -7,7 +7,7 @@
 
    Ubuntu 20.04, Python 3.8
 
-   Simulation Scene: ProcThor https://procthor.allenai.org/
+   Simulation Scenes: ProcThor train_1, train_8, train_13 https://procthor.allenai.org/
 
    Robot Entity: ManipulaTHOR https://ai2thor.allenai.org/manipulathor/
 
