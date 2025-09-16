@@ -28,3 +28,6 @@
 3. In the main folder, run `python -m build_scene_graph` to build the scene graph for the ProcTHOR scene
 
 4. In the main folder, run `python -m main` to evaluate the specified algorithm in the ProcTHOR scene
+
+## ProcTHOR Scenes
+![scene train_1](https://github.com/icrasubmission/Inter-LLM/blob/main/scenes/train_1/train_1.png)
